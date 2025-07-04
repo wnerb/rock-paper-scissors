@@ -1,0 +1,10 @@
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\bin\Debug\rock-paper-scissors.exe.config
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\bin\Debug\rock-paper-scissors.exe
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\bin\Debug\rock-paper-scissors.pdb
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.AssemblyReference.cache
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\obj\Debug\rock_paper_scissors.Form1.resources
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.GenerateResource.cache
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.CoreCompileInputs.cache
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\obj\Debug\rock-paper-scissors.exe
+D:\Users\1213-10\Documents\МДК05.01\Очеленков\rock-paper-scissors\obj\Debug\rock-paper-scissors.pdb
